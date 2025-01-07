@@ -1,2 +1,4 @@
 # Master_Thesis
- Dow Jones forecast
+
+This repository contains the code for my Master's Thesis. 
+ 
